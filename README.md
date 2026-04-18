@@ -51,10 +51,10 @@ The 100-dimensional word vectors are reduced to **3 dimensions** using **PCA** (
 ## Output
 
 ### 3D Scatter Plot — Desktop View
-![3D Word2Vec scatter plot viewed in desktop browser, hovering over "robert"](assets/Screenshot%202026-04-18%20080749.png)
+![3D Word2Vec scatter plot viewed in desktop browser, hovering over "robert"](assets/image2.png)
 
 ### 3D Scatter Plot — Mobile View
-![3D Word2Vec scatter plot viewed on mobile, hovering over "tyrion"](assets/WhatsApp%20Image%202026-02-09%20at%201.59.38%20PM.jpeg)
+![3D Word2Vec scatter plot viewed on mobile, hovering over "tyrion"](assets/image1.jpeg)
 
 The plot is interactive — hover over any point to see the word and its PCA coordinates. Character names, locations, and thematically related words cluster together.
 
