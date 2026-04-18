@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+word2vec_plot.html
+*.ipynb
+GOT_gensim_model.txt
